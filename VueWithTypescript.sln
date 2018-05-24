@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VueWithTypescript", "VueWithTypescript\VueWithTypescript.csproj", "{B0F9CE2E-C8A5-417F-98E4-D70151BCCDFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0F9CE2E-C8A5-417F-98E4-D70151BCCDFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0F9CE2E-C8A5-417F-98E4-D70151BCCDFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0F9CE2E-C8A5-417F-98E4-D70151BCCDFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0F9CE2E-C8A5-417F-98E4-D70151BCCDFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F5AF860-D53B-4B94-B39E-47C4D61A143D}
+	EndGlobalSection
+EndGlobal
