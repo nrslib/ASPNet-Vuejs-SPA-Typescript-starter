@@ -1,7 +1,7 @@
 # ASPNet-Vuejs-SPA-Typescript-starter
 
 解説は以下で行います。
-[https://srnlib.com/aspnet-vuejs-spa-typescript-starter](https://srnlib.com/aspnet-vuejs-spa-typescript-starter "https://srnlib.com/aspnet-vuejs-spa-typescript-starter")
+[https://nrslib.com/aspnet-vuejs-spa-typescript-starter](https://nrslib.com/aspnet-vuejs-spa-typescript-starter "https://nrslib.com/aspnet-vuejs-spa-typescript-starter")
 
 # 概要
 vue.js と typescript を利用した Asp.net core のテンプレートです。  
@@ -11,7 +11,7 @@ SPA (Single Page Application) で構成されています。
 # 実行
 ```
 npm install
-npm build
+npm run build
 dotnet run
 ```
 
@@ -28,7 +28,7 @@ This project uses webpack.
 # Run
 ```
 npm install
-npm build
+npm run build
 dotnet run
 ```
 
