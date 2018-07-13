@@ -44,6 +44,11 @@ namespace VueWithTypescript
                 routes.MapRoute(
                     name: "default",
                     template: "{controller=Home}/{action=Index}/{id?}");
+
+                routes.MapSpaFallbackRoute(
+                    name: "spaFallback",
+                    defaults: new {controller = "Home", action = "Index"}
+                );
             });
         }
     }
